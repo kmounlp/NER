@@ -5090,7 +5090,7 @@ $이리하여 <세호:PS>는 도리 없이 그 갈여울에서 <박:PS>기자네
 4	없	VA	O
 4	이	EC	O
 5	그	MM	O
-6	갈여울	NNP	O
+6	갈여울	NNP	B_LC
 6	에서	JKB	O
 7	박	NNP	B_PS
 7	기자	NNG	O
